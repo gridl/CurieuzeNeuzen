@@ -1,0 +1,25 @@
+# these files have to be added to source control specifically
+*.png
+*.csv
+*.html
+*.zip
+*.docx
+*.pptx
+*.pdf
+*.txt
+
+# python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# shapefiles
+*.cpg
+*.dbf
+*.prj
+*.qpj
+*.shp
+*.shx
+*.sbn
+*.sbx
+*.shp.xml
