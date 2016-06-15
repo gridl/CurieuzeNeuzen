@@ -1,6 +1,8 @@
 # these files have to be added to source control specifically
 *.png
 *.csv
+*.xls
+*.xlsx
 *.html
 *.zip
 *.docx
@@ -23,3 +25,5 @@ __pycache__/
 *.sbn
 *.sbx
 *.shp.xml
+*.WOR
+*.lyr
